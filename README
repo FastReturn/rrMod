@@ -5,3 +5,17 @@
 | |  | |  | |  | | (_) | (_| |
 |_|  |_|  |_|  |_|\___/ \____|
                                
+Hi, I’m rrMod and I’m here to make your life easier.
+I’ll generate and send all the emails you’d need to
+send to update your routing registry so that you can
+do more important things with your life...
+
+What you'll need:
+- PHP (preferably PHP 5.4)
+- The PHP5-PDO extension
+- ARIN routing registry access
+
+Installation instructions:
+- Download all the files in the directory
+- Upload them to a webserver
+- Access index.php via a browser
